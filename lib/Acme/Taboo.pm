@@ -3,7 +3,7 @@ use 5.008005;
 use strict;
 use warnings;
 
-our $VERSION = "y";
+our $VERSION = "0.01";
 our @CENSORED = ('xxx', '***', '???', '(CENSORED)');
 
 sub new {
