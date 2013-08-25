@@ -4,7 +4,7 @@
       "ytnobody <ytnobody aaaaaaaaaaaaatttttttttttttt acme^D^D^D^Dgmail dddooottt com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.5.5, CPAN::Meta::Converter version 2.130880",
+   "generated_by" : "Minilla/v0.5.6, CPAN::Meta::Converter version 2.131560",
    "license" : [
       "perl_5"
    ],
@@ -52,5 +52,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ytnobody/Acme-Taboo/issues"
+      },
+      "homepage" : "https://github.com/ytnobody/Acme-Taboo",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/ytnobody/Acme-Taboo.git",
+         "web" : "https://github.com/ytnobody/Acme-Taboo"
+      }
+   },
+   "version" : "0",
+   "x_contributors" : [
+      "ytnobody <ytnobody@gmail.com>"
+   ]
 }
